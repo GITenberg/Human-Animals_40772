@@ -1,0 +1,32 @@
+_repo: Human-Animals_40772
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40772-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hamel, Frank
+    gutenberg_agent_id: '40813'
+    url: http://www.gutenberg.org/2009/agents/40813
+description: ''
+gutenberg_issued: '2012-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Folklore'
+- !lcc 'GR'
+- !lcsh 'Occultism'
+tableOfContents: Introductory -- Transformation -- The bush-soul -- Human souls in
+  animal bodies -- Animal dances -- Man-animal and animal-man -- Scapegoat and saint
+  -- The wer-wolf trials -- The wer-wolf in myth and legend -- Lion- and tiger-men
+  -- Wer-fox and wer-vixen -- Witches -- Familiars -- Transformation in folk-lore
+  and fairy-tale -- Fabulous animals and monsters -- Human serpents -- Cat and cock
+  phantoms -- Bird-women -- Family animals -- Animal ghosts -- The phantasmal double
+  -- Animal elementals -- Animal spirits in ceremonial magic -- Conclusion.
+title: Human Animals
+url: http://www.gutenberg.org/ebooks/40772
